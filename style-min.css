@@ -1,0 +1,389 @@
+.mainlogoalt img{
+    display: inline-block;
+    width: 60%;
+}
+.middleit .content-area {
+    margin-left: auto!important;
+    margin-right: auto!important;
+    float: none;
+}
+.middleit .inside-article {
+    box-shadow: 0px 0px 10px 0px #d4d4d4;    margin-top: -40px;
+}
+.site-content .mymainspecial {
+    width: 100%;
+    padding: 6% 10%;
+    text-align: center;
+}
+
+.singlecoupon {
+    border: 1px solid #e6e9ee;
+    padding: 30px 0px;
+    background: #ffffff;
+    box-shadow: 0 0 6px #d4d4d4;
+    margin-top: 20px;
+}
+.largetext {
+    font-size: 2.2em;
+    font-weight: 900;
+    color: #F56523;
+}
+.titlecoupon h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #031b33;
+}
+.coupondescription p {
+    font-size: 14px;
+    color: #221f1f;
+    font-weight: 400;margin-top: -10px;
+}
+.buttonlink a {
+    background: #F56523;
+    display: inline-block;
+    color: white;
+    padding: 8px 22px;
+    text-align: center;
+}
+.couponcontainer .row {
+    display: contents!important;
+}
+@media only screen and (max-width: 768px) {
+.couponcontainer .row {
+    display: block!important;
+	padding:15px;
+}
+.alternativebox .row {
+    display: block!important;
+    padding: 20px;
+}
+.titlecoupon h3, titlealternative h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #031b33;text-align:center;
+}
+.coupondescription p {
+    font-size: 14px;
+    color: #221f1f;
+    font-weight: 400;text-align:center;
+}
+
+}
+
+.alternative {
+	margin:20px 0px!important;
+}
+.alternative td {
+	padding:10px!important;
+	vertical-align: top!important; 
+}
+.alternative th {
+	padding:20px!important;vertical-align: top!important; 
+	background:#f9f9f9;
+}
+
+.alternative td li {
+    font-size: 14px;
+    line-height: 1.4em;
+    padding-bottom: 0.375rem!important;
+    border-bottom: 1px dotted #5d94d1;
+    margin-bottom: 10px!important;
+}
+    table, td, .alternative th, tr {
+      border: 1px solid #d8d8d8;
+  }
+  .alternative {
+  border: none!important;
+      box-shadow: 0px 0px 10px 0px #dcdcdc;
+  }
+a.alternativebutton {
+    background: #0467f6;
+    color: #fff;
+    padding: 10px 25px;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 100px;
+    margin-top: 15px;
+    display: block;
+    margin-bottom: 5px;
+}
+.alternative ul {
+	margin-left:0px!important;
+	margin-top:20px;
+	list-style:none;
+}
+.alternative li {
+	margin-bottom:10px!important;margin-left:10px!important;
+}
+.alternative td p {
+	font-size:14px;        
+}
+.alternative tr:nth-child(even) {background-color: #f2f2f2;}
+.alternative .fa.fa-star {
+    color: #e6e9ee;
+}
+.alternative .fa.fa-star.checked {
+    color: #f4a540;
+}
+.reviewdetails {
+    padding-top: 10px;
+    margin-top: 10px;
+    border-top: 1px dashed #e6e9ee;
+    border-width: 1px;
+}
+.reviewdetails:before {
+    content: '\f075';
+    font-family: 'FontAwesome';
+    font-size: 16px;
+    color: #2a74f6;
+    padding-right: 5px;
+    font-weight: 300;
+}
+
+
+
+
+.alternativebox {
+    border: 1px solid rgb(147, 180, 216);
+    padding: 30px 0px;
+    background: #ffffff;
+    box-shadow: 0 0 6px #d4d4d4;
+    margin-top: 20px;
+}
+.alternativelisttext {
+    font-weight: 700;font-size:20px;
+    color: #F56523;
+}
+.titlealternative h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #031b33;
+}
+.desalternative p {
+    font-size: 14px;
+    color: #221f1f;
+    font-weight: 400;margin-top: -10px;
+}
+.buttonlink a {
+    background: #F56523;
+    display: inline-block;
+    color: white;
+    padding: 8px 22px;
+    text-align: center;
+	border-radius: 4px;
+}
+.couponcontainer .row {
+    display: contents!important;
+}
+@media only screen and (max-width: 768px) {
+.couponcontainer .row {
+    display: block!important;
+	padding:15px;
+}
+}
+.titlealternative h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #031b33;
+}
+.desalternative p {
+    font-size: 14px;
+    color: #221f1f;
+    font-weight: 400;margin-top: 10px;
+}
+.box-alternatives {
+    padding: 25px 15px;
+    box-shadow: 0 0 5px #a5a5a5a8;
+}
+.box-alternatives h3 {
+    text-align: left;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.box-alternatives ol {
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+.box-alternatives li {
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500;
+}
+img.squareimage {
+    padding: 20px;
+}
+img.altauthor { width: 34px; height: auto; border-radius: 100px; }
+
+
+.desalt {
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+}
+.alternativebox .fa.fa-star {
+    color: #e6e9ee;
+}
+.alternativebox .fa.fa-star.checked {
+    color: #f4a540;
+}
+
+.alternativegrid {
+    margin-top: 20px;
+}
+img.squareimgright {
+    padding: 5px;
+    width: 25%;
+    border: 1px solid #dfdfdf;
+}
+.card.featured {
+    background: #ffebd1;
+}
+.fa.fa-star.checked {
+    color: #f4a540;
+}
+.cardbuttonlink a {
+    background: #F56523;
+    display: block;
+    color: white;
+    padding: 8px 22px;
+    text-align: center;
+}
+.card.featured:before {
+    content: 'popular';
+    position: absolute;
+    top: -11px;
+    font-size: 13px;
+    background: #ed3833;
+    color: #ffffff;
+    padding: 0px 15px;
+}
+
+img.squareimgcenter {
+    margin: 20px auto;
+    display: block;
+    width: auto;
+    max-height: 90px;
+}
+.popdescription p {
+    font-size: 16px;
+    color: #221f1f;
+    font-weight: 500;
+    line-height: 1.7em;
+    margin-top: 0px;
+}
+.pcardbuttonlink a {
+    background: #ffffff;
+    display: block;
+    color: #ef6537;
+    padding: 8px 22px;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 20px 5px;
+    border: 3px solid #ef6537;
+    text-align: center;
+}
+a.popbtn.best {
+    background: #ef6537;
+    color: #fff;
+    border: 3px solid #ef6537;
+}
+.card.best {
+    background: #fff4e7;
+}
+@media only screen and (min-width: 768px) {
+.gridd {
+	width: 30%;
+margin: 13px;text-align: center;box-shadow: 0px 0px 4px 0px #848484;
+}
+.all_popular {
+    margin:-40px -100px 20px -100px;
+    padding: 10px;
+    background: white;
+    box-shadow: 0px 0px 4px 0px #848484;
+}
+.gridd:hover {
+    background:#f9f9f9;
+}
+.gridd.best:hover {
+    background:#ffe6c5;
+}
+}
+@media only screen and (max-width: 768px) {
+.gridd {
+        width: 100%;
+text-align: center;box-shadow: 0px 0px 4px 0px #848484;padding:20px;margin-bottom: 20px;
+}
+.all_popular {
+    margin: 20px 0px;
+    background: white;
+    box-shadow: none;
+}
+}
+span.featurednormal {
+    font-size: 14px;
+    background: #f0f7fe;
+    padding: 0px 15px;
+}
+span.featurednormal.best {
+    background: #ed3833;
+    color: #fff;
+}
+.justify-content-center {
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+}
+.align-self-center {
+    -ms-flex-item-align: center!important;
+    align-self: center!important;
+}
+.progress {
+    display: -ms-flexbox;
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+}
+.cardn {
+    position: relative;
+    display: -ms-flexbox;
+    padding:20px 20px;
+    box-sizing: border-box;
+    display: inline-block;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.cardnwrap {
+	width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+
+ }
+.mainiteminalt, .all-coupons {display:flex;}
+
+@media only screen and (max-width: 768px) {
+.cardnwrap {
+    grid: none;
+}
+	.spacercoupon {margin:10px auto;}
+	.mainiteminalt, .all-coupons {display:block;}
+}
+a.gflag {font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url(24.png);}
+a.gflag img {border:0;height:24px;display:inline;}
+a.gflag:hover {background-image:url(24a.png);}
+img.gstats {display:none;}
+a.alt_flag {background-image:url(alt_flags.png);}
+a.alt_flag:hover {background-image:url(alt_flagsa.png);}
+a.us_flag {background-position:-0px -100px;}
+a.br_flag {background-position:-100px -100px;}
+a.mx_flag {background-position:-200px -100px;}
+
+a.glink {text-decoration:none;}
+a.glink span {margin-right:5px;font-size:15px;vertical-align:middle;}
+a.glink img {vertical-align:middle;display:inline;border:0;padding:0;margin:0;opacity:0.8;}
+a.glink:hover img {opacity:1;}
